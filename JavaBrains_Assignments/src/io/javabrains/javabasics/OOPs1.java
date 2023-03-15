@@ -6,8 +6,6 @@ public class OOPs1 {
 		Rectangle rec = new Rectangle(10,12);
 		double area = rec.areaOfRectangle();
 		System.out.println("Area of a Rectangle is :: "+ area);
-		
-
 	}
 
 }

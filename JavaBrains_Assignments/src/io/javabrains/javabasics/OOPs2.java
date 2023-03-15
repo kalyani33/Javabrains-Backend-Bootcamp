@@ -9,7 +9,7 @@ public class OOPs2 {
 
 }
 
-class Animal{
+class Animal1{
 	private String name;
 	private double weight;
 	private int age;
